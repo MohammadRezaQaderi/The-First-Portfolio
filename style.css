@@ -330,3 +330,19 @@ p{
     opacity: 0.9;
     z-index: -1;
 }
+#services .service-bottom .icon{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+#services .service-items h2{
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+#services .service-items p{
+    color: white;
+    text-align: left;
+}
