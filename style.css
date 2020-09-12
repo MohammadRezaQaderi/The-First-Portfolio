@@ -34,3 +34,15 @@ p{
     font-weight: 300;
     letter-spacing: 0.05rem;
 }
+.section-titel{
+    font-size: 4rem;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    text-align: center;
+}
+.section-titel span{
+    color: crimson;
+}
