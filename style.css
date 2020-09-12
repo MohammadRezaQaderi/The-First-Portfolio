@@ -319,3 +319,14 @@ p{
     z-index: 1;
     overflow: hidden;
 }
+#services .service-items::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(60deg, #29323c 0%,#485563 100%);
+    opacity: 0.9;
+    z-index: -1;
+}
