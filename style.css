@@ -304,3 +304,18 @@ p{
     flex-wrap: wrap;
     margin-top: 50px;
 }
+#services .service-items{
+    flex-basis: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 10px;
+    background-image: url(./img/Shaghayegh\ \(2\).jpg);
+    background-size: cover;
+    margin: 10px 5%;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
