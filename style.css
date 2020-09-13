@@ -507,3 +507,21 @@ p{
     flex-direction: row;
     margin: 0;
 }
+
+
+#contact .contact-item {
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 0px 18px 0 #0000002c;
+    transition: .3s ease bax-shadow;
+    
+}
+
