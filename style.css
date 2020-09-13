@@ -579,3 +579,19 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+#footer .social-icon{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+#footer .social-item{
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
+}
+
+#footer .social-item img{
+    filter: grayscale(1);
+    transition: .3s ease filter;
+}
