@@ -595,3 +595,12 @@ p{
     filter: grayscale(1);
     transition: .3s ease filter;
 }
+
+#footer .social-item:hover img{
+    filter: grayscale(0);
+}
+
+#footer p{
+    color: white;
+    font-size: 1.3rem;
+}
