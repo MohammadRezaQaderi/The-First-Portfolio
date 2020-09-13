@@ -549,3 +549,14 @@ p{
     font-weight: 500;
     line-height: 2rem;
 }
+
+#footer {
+    background-image: linear-gradient(60deg ,#29323c 0% , #485563 100%);
+}
+
+#footer .footer{
+    min-height:  200px;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
