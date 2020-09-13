@@ -468,3 +468,25 @@ p{
     padding: 10px 20px;
     font-size: 2rem;
 }
+
+#about .col-left .about-img {
+    position: relative;
+    border: 10px solid white;
+    height: 100%;
+    width: 100%;
+}
+
+#about .col-left .about-img::after{
+    content: '';
+    position: absolute;
+    left: -33px;
+    top: 19px;
+    height: 98%;
+    width: 98%;
+    border: 7px solid crimson;
+    z-index: -1;
+}
+
+#about .col-right h1{
+    text-align: left;
+}
