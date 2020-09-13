@@ -525,3 +525,7 @@ p{
     
 }
 
+
+#contact .contact-item:hover{
+    box-shadow: 0px 0px 5px 0  #0000002c;
+}
