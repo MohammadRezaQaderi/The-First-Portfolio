@@ -17,3 +17,9 @@ document.addEventListener('scroll',()=>{
     }
 })
 
+menu_item.forEach((item) => {
+    item.addEventListener('click' ,() =>{
+        hamburger.classList.toggle('active');
+        mobile_menu.classList.toggle('active');
+    });
+});
