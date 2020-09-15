@@ -640,3 +640,15 @@ p{
        }
    }
    
+@media only screen and (min-width:768px){
+    .cta{
+        font-size: 2.5rem;
+        padding: 20px 60px;
+    }
+    h1.section-titel{
+        font-size: 6rem;   
+    }
+    #hero h1{
+        font-size: 7rem;
+    }
+}
