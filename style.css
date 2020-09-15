@@ -763,5 +763,9 @@ p{
     #header .nav-list ul li a:after{
         display: none;
     }
-
+    
+    #services .service-bottom .service-items{
+        flex-basis: 22%;
+        margin: 1.5%;
+    }
 }
