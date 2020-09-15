@@ -651,5 +651,8 @@ p{
     #hero h1{
         font-size: 7rem;
     }
-    
+    #services .service-bottom .service-items{
+        flex-basis: 45%;
+        margin: 2.5%;
+    }
 }
